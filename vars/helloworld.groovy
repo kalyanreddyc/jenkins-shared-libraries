@@ -1,3 +1,3 @@
-def call(drilldevops){
+def call(name){
 echo "Hello $name, Welcome to DrillDevOps!" 
 }
